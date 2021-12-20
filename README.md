@@ -1,1 +1,3 @@
 # Exoplanet-Hunting
+
+In this project, machine learning and deep learning techniques have been discussed and used to predict presence of exoplanet in deep space. The dataset used for the implementation NASA’s dataset of flux measurement from Kepler telescope of several thousand stars over time and associated variable of binary nature indicating the presence of one or more exoplanets in the stellar system. Three deep learning models, fully connected neural network, convolution neural network and recurrent neural network have been  implemented on the dataset.  Different pre-processing technique including SMOTE for imbalanced classes have been used for the model implementation. The performance of the models are compared on the basis of common classification metrics.
